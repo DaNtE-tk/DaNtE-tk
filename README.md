@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaNtE-tk.
+- 👋 Hi, I’m Tushar Kashyap, @DaNtE-tk.
 - 👀 I’m interested in web development in python.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on django based web_apps.
