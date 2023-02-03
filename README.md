@@ -17,8 +17,10 @@
 
 <br>
 
-<h3 align="left"><b>Languages and Tools:</b></h3>
-<p align="left">
+<div align="center">
+  
+<h3 ><b>Languages and Tools:</b></h3>
+<p>
   
 <!-- solidity -->
 <a href="https://docs.soliditylang.org/en/v0.8.17/#" target="_blank" rel="noreferrer"> 
@@ -106,11 +108,13 @@
 
 <br><br>
 <!-- Statisticts -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaNtE-tk&show_icons=true&locale=en&layout=compact" alt="DaNtE-tk" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaNtE-tk&show_icons=true&locale=en&layout=compact" alt="DaNtE-tk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaNtE-tk&show_icons=true&locale=en" alt="DaNtE-tk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNtE-tk&" alt="DaNtE-tk" /></p>
+  
+</div>
 
 <!---
 DaNtE-tk/DaNtE-tk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
