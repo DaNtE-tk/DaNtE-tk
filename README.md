@@ -2,6 +2,7 @@
 <h3 align="center">Node.js & Solidity Developer</h3>
 <br>
 <h4 align="center">Node.js & React.js Deveoper || Full-Stack || Smart Contracts || Django-Python</h4>
+<br>
 
 - 👀 I’m interested in web development in python.
 - 🌱 I’m currently learning Django.
