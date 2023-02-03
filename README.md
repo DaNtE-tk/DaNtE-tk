@@ -2,6 +2,10 @@
 <h3 align="center">Node.js & Solidity Developer</h3>
 <br>
 <h4 align="center">Node.js & React.js Deveoper || Full-Stack || Smart Contracts || Django-Python</h4>
+
+<!-- profile viewer count -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaNtE-tk&label=Profile%20views&color=0e75b6&style=flat" alt="DaNtE-tk" /> </p> -->
+
 <br>
 
 - 👀 I’m interested in web development in python.
