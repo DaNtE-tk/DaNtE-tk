@@ -94,7 +94,7 @@
 
 <!-- java -->
 <a href="https://www.java.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" alt="django" width="60" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" alt="django" width="80" height="40"/> </a>
   &nbsp;&nbsp;
 
 <!-- python -->
