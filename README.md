@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I’m Tushar Kashyap</h1>
 <h3 align="center">Node.js & Solidity Developer</h3>
 <br>
-<h4 align="center">Node.js & React.js Deveoper || Full-Stack || Smart Contracts || Django-Python</h4>
+<h4 align="center"> MERN Stack & Django Deveoper || Full-Stack || Web3 </h4>
 
 <!-- profile viewer count -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaNtE-tk&label=Profile%20views&color=0e75b6&style=flat" alt="DaNtE-tk" /> </p> -->
 
 <br>
 
-- 👀 I’m interested in web development in python.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on django based web_apps.
+- 👀 I’m interested in Full-Stack & Web3(blockchain) development.
+- 💕 Can do magic with MERN Stack and Django.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m looking to collaborate on Web Apps with cutting edge tech-stack.
 - 📫 How to reach me **tusharkashyap2342@gmail.com**
 - 🌃 Know about my experience [https://www.linkedin.com/in/tushar-kashyap-28b79a218/](https://www.linkedin.com/in/tushar-kashyap-28b79a218/) 
 - ✒ Will be posting updates about new skills and projects. Feel free to hit me up.
-- 🤵 If you're looking for something shiny [https://myport-23.netlify.app/](https://myport-23.netlify.app/)
 
 <br>
 
